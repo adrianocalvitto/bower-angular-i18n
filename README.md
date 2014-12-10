@@ -1,8 +1,6 @@
 # packaged angular-i18n
 
-This repo is for distribution on `npm` and `bower`. The source for this module is in the
-[main AngularJS repo](https://github.com/angular/angular.js).
-Please file issues and pull requests against that repo.
+Customized angular-i18n version for personal purposes.
 
 ## Install
 
@@ -33,12 +31,6 @@ Add a `<script>` to your `index.html`:
 
 ```html
 <script src="/bower_components/angular-i18n/angular-locale_YOUR-LOCALE.js"></script>
-```
-
-## Documentation
-
-Documentation is available on the
-[AngularJS docs site](http://docs.angularjs.org/guide/i18n).
 
 ## License
 
