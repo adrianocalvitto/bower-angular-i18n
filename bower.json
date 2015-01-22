@@ -1,6 +1,5 @@
 {
   "name": "angular-i18n",
-  "version": "2.3.4",
   "main": [
     "angular-locale_en.js",
     "angular-locale_fr.js",
